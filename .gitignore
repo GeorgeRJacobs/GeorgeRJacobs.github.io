@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 2021-04-15-welcome-to-jekyll.markdown
+/example.txt
